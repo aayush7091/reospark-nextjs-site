@@ -58,10 +58,10 @@ const navigation = [
       {
         title: "Strategy & Design",
         links: [
-          { label: "Brainstorming Ideas", path: "/services/brainstorming" },
-          { label: "Product Design", path: "/services/product-design" },
-          { label: "SEO Optimization", path: "/services/seo" },
-          { label: "Front-End Development", path: "/services/front-end" },
+          { label: "Brainstorming Ideas", path: "/how-we-do" },
+          { label: "Product Design", path: "/how-we-do" },
+          { label: "SEO Optimization", path: "/how-we-do" },
+          { label: "Front-End Development", path: "/how-we-do" },
         ],
       },
       {
